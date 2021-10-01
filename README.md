@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img align = "right" alt = "HI ROBOt" src = https://github.com/cyber-vivek/cyber-vivek/blob/main/hi-robot.gif/>
 <h2> 🧑‍💻 About Me </h2>
 
-- My name is Vivek Kumar Verma, from Ayodhya.
-- I am Pre-final year student at IIT BHU,VARANASI.
-- I am interested in Data Structures and Algorithms, Competitive Programming and Web Development.
+- 👦 My name is Vivek Kumar Verma, from Ayodhya.
+- 🧑‍🎓 I am Pre-final year student at IIT BHU,VARANASI.
+- ❤️ I am interested in Data Structures and Algorithms, Competitive Programming and Web Development.
 
 <h2> ⚙️ Skills </h2>
 
