@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - I am Pre-final year student at IIT BHU,VARANASI.
 - I am interested in Data Structures and Algorithms, Competitive Programming and Web Development.
 
-<h2> Skills </h2>
+<h2> ⚙️ Skills </h2>
 
 - **Programming Languages** - C, C++, Python
 - **Web Development** - HTML, CSS,Javascript, React.js
