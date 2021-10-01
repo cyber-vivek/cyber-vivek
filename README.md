@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <h2> ⚙️ Skills </h2>
 
-- **Programming Languages** - C, C++, Python
-- **Web Development** - HTML, CSS,Javascript, React.js
-- **Industry Knowledge** - Data Structures and Algorithms
+- 💻 **Programming Languages** - C, C++, Python
+- 🌐 **Web Development** - HTML, CSS,Javascript, React.js
+- 💡 **Industry Knowledge** - Data Structures and Algorithms
