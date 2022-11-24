@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h2> 🧑‍💻 About Me </h2>
 
 - 👦 My name is Vivek Kumar Verma, from Ayodhya.
-- 🧑‍🎓 I am Pre-final year student at IIT BHU,VARANASI.
+- 🧑‍🎓 I am final year student at IIT BHU,VARANASI.
 - ❤️ I am interested in Data Structures and Algorithms, Competitive Programming and Web Development.
 
 <h2> ⚙️ Skills </h2>
 
 - 💻 **Programming Languages** - C, C++, Python
-- 🌐 **Web Development** - HTML, CSS,Javascript, React.js
+- 🌐 **Web Development** - HTML, CSS,Javascript, React.js, Redux, Redux-Saga
 - 💡 **Industry Knowledge** - Data Structures and Algorithms
